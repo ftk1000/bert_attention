@@ -4,6 +4,11 @@
 
 ---
 
+    git status
+    git add .
+    git commit -m '2021.12.25'
+    git push -u origin main
+
 create a new repository on the command line
 
     echo "# bert_attention" >> README.md
