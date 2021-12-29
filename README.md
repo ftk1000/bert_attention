@@ -3,10 +3,13 @@
 2021.12.25
 
 
-* [chervov.md: Anton Kostin (phil + nlp) with Sasha Chervov (bio texts + nlp)](chervov.md)
 * [anvar_lec_2021_12.ipynb](anvar_lec_2021_12.ipynb)
 * [Transf_Putin.ipynb](Transf_Putin.ipynb)
-* []()
+
+# NLP
+
+* [search for NLP sberloga](https://www.youtube.com/results?search_query=%D0%90%D0%BD%D1%82%D0%BE%D0%BD+%D0%9A%D0%BE%D1%81%D1%82%D0%B8%D0%BD+sberloga)
+* [chervov.md: Anton Kostin (phil + nlp) with Sasha Chervov (bio texts + nlp)](chervov.md)
 
 
 ---
