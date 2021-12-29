@@ -2,6 +2,13 @@
 
 2021.12.25
 
+
+* [chervov.md: Anton Kostin (phil + nlp) with Sasha Chervov (bio texts + nlp)](chervov.md)
+* [anvar_lec_2021_12.ipynb](anvar_lec_2021_12.ipynb)
+* [Transf_Putin.ipynb](Transf_Putin.ipynb)
+* []()
+
+
 ---
 
     git status
