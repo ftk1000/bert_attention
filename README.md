@@ -4,6 +4,7 @@
 
 
 * [anvar_lec_2021_12.ipynb](anvar_lec_2021_12.ipynb)
+* [boris_burkov.md](boris_burkov.md)
 * [Transf_Putin.ipynb](Transf_Putin.ipynb)
 
 # NLP
@@ -24,6 +25,8 @@
 * [2021: CS224W: Machine Learning with Graphs | 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
    * [YT: 2019: Graph Representation Learning (Stanford university)](https://www.youtube.com/watch?v=YrhBZUtgG4E) + [slides](http://snap.stanford.edu/class/cs224w-2018/handouts/09-node2vec.pdf)
 * 
+
+
 
 ---
 
