@@ -16,5 +16,7 @@
   * Ie, kernel is a dot product of features m(x), m(x') 
   * Almost no cond on X (text, image, etc).
   * A single kernel k may correspond to several features 
+  * Kernel is a measure of similarity between features
+  * If k1, k2 are kernels on X, then so is a\*k1+k2 for any a>0 (Note: k1-k2 may not be a kernel).
  
  
