@@ -6,5 +6,6 @@
     * Kernel Methods - Extending SVM to infinite-dimensional spaces using the kernel trick, and to non-separable data using soft margins. Lecture 15 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. View course materials in iTunes U Course App - https://itunes.apple.com/us/course/ma... and on the course website - http://work.caltech.edu/telecourse.html 
   * [2021: Arthur Gretton: slides: Reproducing kernel Hilbert spaces in Machine Learning](https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/Slides4A.pdf)
   * [YT:2021: Arthur Gretton talk](https://www.youtube.com/watch?v=alrKls6BORc)
-    * Kernel methods push data into higher dimention to solve problem: see slide 10 ~ 12:00 min
+    * Kernel methods push data into higher dimention feature space to solve problem: see slide 10 ~ 12:00 min
+    * Smooth vs Rough features: Kernel methods can control smoothness and avoid overfitting/underfitting. Slide 11
  
