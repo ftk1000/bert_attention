@@ -4,6 +4,8 @@
 
 
 * [anvar_lec_2021_12.ipynb](anvar_lec_2021_12.ipynb)
+  * [https://github.com/ftk1000/BERT_demos/blob/master/Anvar_Lecture_2021.12.md](https://github.com/ftk1000/BERT_demos/blob/master/Anvar_Lecture_2021.12.md) 
+  
 * [anton kostin](anton_kostin.md)
   * [Anton's SBERLOGA talks on YT](https://www.youtube.com/results?search_query=%D0%90%D0%BD%D1%82%D0%BE%D0%BD+%D0%9A%D0%BE%D1%81%D1%82%D0%B8%D0%BD+sberloga) 
     * [YT:2021: Биология на графах. Графы 'взаимодействия' генов на основе NLP анализа текстов - Антон Костин](https://www.youtube.com/watch?v=vw10_9j3Lig) 
