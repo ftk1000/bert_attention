@@ -4,8 +4,13 @@
 
 
 * [anvar_lec_2021_12.ipynb](anvar_lec_2021_12.ipynb)
+* [anton kostin](anton_kostin.md)
+  * [Anton's SBERLOGA talks on YT](https://www.youtube.com/results?search_query=%D0%90%D0%BD%D1%82%D0%BE%D0%BD+%D0%9A%D0%BE%D1%81%D1%82%D0%B8%D0%BD+sberloga) 
+  
 * [boris_burkov.md](boris_burkov.md)
+
 * [Pratyush Tiwary - Assistant Professor, University of Maryland, College Park](https://chem.umd.edu/people/pratyush-tiwary) and [his g-scholar page](https://scholar.google.com/citations?user=v-NQD2cAAAAJ&hl=en)
+
   * [Efficient stochastic generation of special quasirandom structures](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v-NQD2cAAAAJ&alert_preview_top_rm=2&citation_for_view=v-NQD2cAAAAJ:hqOjcs7Dif8C)
     * We present a new algorithm to generate Special Quasirandom Structures (SQS), i.e., best periodic supercell approximations to the true disordered state for a given number of atoms per supercell. The method is based on a Monte Carlo simulated annealing loop with an objective function that seeks to perfectly match the maximum number of correlation functions (as opposed to merely minimizing the distance between the SQS correlation and the disordered state correlations for a pre-specified set of correlations).  
     
