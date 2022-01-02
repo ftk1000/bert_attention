@@ -18,6 +18,7 @@
 
 # Transformers
 * [2018: The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) from [Harvard NLP](http://nlp.seas.harvard.edu/)
+* [Jay Alammar: The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 # NLP
 
