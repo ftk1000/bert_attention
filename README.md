@@ -3,7 +3,7 @@
 2021.12.25
 
 * [Jure Leskovec](jure_leskovec.md)
-* [Anvar_lec_2021_12.ipynb](anvar_lec_2021_12.ipynb)
+* [Anvar Lecture 2021.12](anvar_2021_12.md) and [Anvar_lec_2021_12.ipynb](anvar_lec_2021_12.ipynb)
   * [https://github.com/ftk1000/BERT_demos/blob/master/Anvar_Lecture_2021.12.md](https://github.com/ftk1000/BERT_demos/blob/master/Anvar_Lecture_2021.12.md) 
   
 * [Anton Kostin](anton_kostin.md)
