@@ -16,14 +16,17 @@
     
 * [Transf_Putin.ipynb](Transf_Putin.ipynb)
 
-
+# Transformers
+* [2018: The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) from [Harvard NLP](http://nlp.seas.harvard.edu/)
 
 # NLP
 
 * [search for NLP sberloga](https://www.youtube.com/results?search_query=%D0%90%D0%BD%D1%82%D0%BE%D0%BD+%D0%9A%D0%BE%D1%81%D1%82%D0%B8%D0%BD+sberloga)
 
-
-
+# Tutorials
+* [YT: 2021: Text Classification Using BERT & Tensorflow | Deep Learning Tutorial 47 (Tensorflow, Keras & Python)](https://www.youtube.com/watch?v=hOCDJyZ6quA)
+  * [code on github](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/47_BERT_text_classification/BERT_email_classification-handle-imbalance.ipynb) 
+* [PLURALSIGHT: Expediting Deep Learning with Transfer Learning: PyTorch Playbook](https://www.pluralsight.com/courses/expediting-deep-learning-transfer-pytorch-playbook?aid=701j0000001heIqAAI&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=CA_Dynamic&utm_content=&cq_cmp=179446878&gclid=Cj0KCQiAk4aOBhCTARIsAFWFP9E47bYDK4V2EEvdRCi8GXnXt5tPtA8CciolfkwggVN6-GV5kJgBzFIaAik1EALw_wcB)
 
 ---
 
