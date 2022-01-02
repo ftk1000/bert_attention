@@ -9,6 +9,7 @@
 * [Anton Kostin](anton_kostin.md)
 * [Alexander Chervov (with Anton)](chervov.md)
 * [Boris Burkov](boris_burkov.md)
+* [Valera: Probabilistic Inference](valera.md)
 * [Pratyush Tiwary - Assistant Professor, University of Maryland, College Park](https://chem.umd.edu/people/pratyush-tiwary) and [his g-scholar page](https://scholar.google.com/citations?user=v-NQD2cAAAAJ&hl=en)
 
   * [Efficient stochastic generation of special quasirandom structures](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v-NQD2cAAAAJ&alert_preview_top_rm=2&citation_for_view=v-NQD2cAAAAJ:hqOjcs7Dif8C)
